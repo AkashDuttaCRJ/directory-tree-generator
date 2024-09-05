@@ -1,7 +1,11 @@
 {
-  "name": "svg-tree-generator",
-  "version": "0.1.0",
+  "name": "directory-tree-generator",
+  "version": "1.0.0",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/AkashDuttaCRJ/directory-tree-generator.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
